@@ -1,0 +1,20 @@
+{
+  "name": "ngrequired",
+  "version": "0.0.1",
+  "description": "Adds a * to a field & periodically checks it, if it has a value it is bumped to trigger Angular's Model update",
+  "main": "directives/ngrequired.js",
+  "keywords": [
+    "Require",
+    "Model",
+    "AngularJS"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/BrownPaperBag/ngrequired",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
