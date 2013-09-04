@@ -1,6 +1,6 @@
 {
   "name": "ngrequired",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Adds a * to a field & periodically checks it, if it has a value it is bumped to trigger Angular's Model update",
   "main": "directives/ngrequired.js",
   "keywords": [
